@@ -1,4 +1,4 @@
-# Repositorio par la materia: Desarrollo de Sistemas Distribuidos
+# Repositorio para la materia: Desarrollo de Sistemas Distribuidos
 
 ## ESCOM-IPN
 
